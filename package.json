@@ -55,5 +55,9 @@
     "mocha": "^10.7.3",
     "supertest": "^7.0.0",
     "typescript": "~5.4.2"
-  }
+  },
+  "description": "**Vansh Tyagi(s5304286)**",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
 }
