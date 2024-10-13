@@ -1,0 +1,43 @@
+[
+  {
+    "id": "group-vht97jcuqy8",
+    "groupname": "New Group",
+    "adminId": "user-rv4uafl3dt",
+    "channels": [
+      "670678d5c68849f6f3d3ada4"
+    ],
+    "users": [],
+    "pendingUsers": [
+      "user-001"
+    ],
+    "reported_users": []
+  },
+  {
+    "id": "group-plo2i173ot",
+    "groupname": "123",
+    "adminId": "user-gal6xa6tc1a",
+    "channels": [
+      "670bc759f3221b960a73a393"
+    ],
+    "users": [
+      "user-gal6xa6tc1a"
+    ],
+    "pendingUsers": [
+      "user-001"
+    ],
+    "reported_users": []
+  },
+  {
+    "id": "group-imvwgy6dvso",
+    "groupname": "v",
+    "adminId": "user-001",
+    "channels": [
+      "670bdbd471cd0516483d97fc"
+    ],
+    "users": [
+      "user-001"
+    ],
+    "pendingUsers": [],
+    "reported_users": []
+  }
+]
